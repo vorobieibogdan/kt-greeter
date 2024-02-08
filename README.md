@@ -1,6 +1,6 @@
 # Greeter
 
-Create a function `greet`, which:
+In this task, create a `greet()` function that:
 
-* Takes the `name` parameter
-* Returns a greeting string in the form of `Hi, ${name}!` (use the keyword `return`)
+- accepts the `name` parameter;
+- returns a greeting string in the form of `Hi, ${name}!` (use the `return` keyword).
